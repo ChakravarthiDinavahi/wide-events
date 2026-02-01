@@ -311,7 +311,7 @@ Wide events are designed to be lightweight:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/yourusername/wide-events.
+Bug reports and pull requests are welcome on GitHub at https://github.com/username/wide-events.git.
 
 ## License
 
