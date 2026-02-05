@@ -5,8 +5,8 @@ require_relative "lib/wide-events/version"
 Gem::Specification.new do |spec|
   spec.name          = "wide-events"
   spec.version       = WideEvents::VERSION
-  spec.authors       = ["Your Name"]
-  spec.email         = ["your.email@example.com"]
+  spec.authors       = ["Chakravarthi Dinavahi"]
+  spec.email         = ["chakravarthi.dinavahi@gmail.com"]
 
   spec.summary       = "Wide events logging for Rails - comprehensive, contextual, and queryable"
   spec.description   = "Implements wide events pattern for Rails applications. Capture all context in a single event per request with tail sampling for cost control."
